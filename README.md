@@ -1,0 +1,1 @@
+A toy factory is paking touys into boxes.Each box can contain either a toy(reprensented by an integer value) or be empty(reprensent by 0). Write a function to move all the epty boxex to the end of the array while maintaing the order of the toys and also return the count of empty boxes
